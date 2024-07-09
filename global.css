@@ -113,7 +113,7 @@
   border-radius: 5%;
 }
 
-.navbar-toggle {
+button .navbar-toggle {
   background-color: black;
 }
 
