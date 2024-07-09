@@ -27,6 +27,10 @@
   color: black;
 }
 
+.navbar-inverse .navbar-toggle .icon-bar {
+  color: black;
+}
+
 .navbar-inverse {
   background-color: white;
   border-color: white;
