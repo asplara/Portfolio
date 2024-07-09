@@ -112,3 +112,7 @@
 .projectImage {
   border-radius: 5%;
 }
+
+.navbar-toggle {
+  background-color: black;
+}
