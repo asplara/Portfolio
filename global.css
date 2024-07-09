@@ -109,10 +109,14 @@
   margin: auto;
 }
 
-.projectImage {
+.col-sm-4 .projectImage {
   border-radius: 5%;
 }
 
 .navbar-toggle {
   background-color: black;
+}
+
+.container-fluid h3 {
+  margin-top: 10%;
 }
