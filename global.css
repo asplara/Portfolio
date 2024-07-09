@@ -28,6 +28,7 @@
 }
 
 .navbar-inverse {
+  background-color: white;
   border-color: white;
 }
 
@@ -78,7 +79,8 @@
 }
 
 .jumbotron img {
- margin-right: 7%;
+ margin-right: 15%;
+ width: 30%;
 }
 
 .jumbotron p {
