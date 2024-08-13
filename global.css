@@ -31,10 +31,6 @@
   color: black;
 }
 
-.navbar-inverse .navbar-toggle {
-  color: black;
-}
-
 .navbar-inverse {
   background-color: white;
   border-color: white;
@@ -132,4 +128,8 @@ button .navbar-toggle {
 
 #anime {
   opacity: 0;
+}
+
+.navbar-toggle {
+  color: black;
 }
