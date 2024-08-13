@@ -125,3 +125,7 @@ button .navbar-toggle {
 .container-fluid h3 {
   margin-top: 10%;
 }
+
+#anime {
+  opacity: 0;
+}
