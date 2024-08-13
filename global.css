@@ -31,6 +31,10 @@
   color: black;
 }
 
+.navbar-inverse .navbar-toggle {
+  color: black;
+}
+
 .navbar-inverse {
   background-color: white;
   border-color: white;
